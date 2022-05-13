@@ -16,7 +16,7 @@ to this section's matching END comment to see page-specific styles.
 
 /* Our default values set as CSS variables */
 :root {
-  --color-bg: #6FACE4;
+  --color-bg: #4FACE6;
   --color-text-main: #000000;
   --color-primary: #FFFF00;
   --wrapper-height: 87vh;
@@ -131,7 +131,7 @@ body {
 
 /* Very light scaling for our illustration */
 .title {
-  color: #2800FF;
+  color: #1645FF;
   font-family: HK Grotesk;
   font-style: normal;
   font-weight: bold;
@@ -167,7 +167,7 @@ input {
 
 /* Subheading */
 h2 {
-  color: #1654FF;
+  color: #1645FF;
 }
 
 /* Interactive image */
